@@ -12,14 +12,15 @@ teksHai = "Hai, ada surat buat kamu nih";
     
 konten = [
   {
-    gambar: "NamaFileGambar/Foto",
-    ucapan: "UcapanKalian",
+    gambar: "Stiker 21 (SFILE.MOBI).gif",
+    ucapan: "Aku cuma mau jujur soal perasaanku sekarang. Jujur aja, aku lagi excited banget sama kamu. Tapi aku juga gamau berekspektasi sendirian. Aku takut pas perasaanku lagi tinggi-tingginya gini, kamu ternyata biasa aja. Dan sebaliknya, pas nanti aku udah capek, low banget, dan rasanya udah biasa aja, kamu baru mau nerima aku. Kalau ritmenya begitu, ujung-ujungnya malah bikin masalah baru. Aku ngomong gini dari awal karena aku bener-bener gamau kejadian kemarin keulang dua kali.",
   },
 ];
 
-musik = "musik.mp3";
-nomorWhatsapp = "6285xxx";
+musik = "ssstik.io_1772208326130.mp3";
+nomorWhatsapp = "628978284499";
 
 /*=========================*/
 DekaTutorial(konten, musik, nomorWhatsapp);
 </script></body></html>
+
